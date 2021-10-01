@@ -63,7 +63,8 @@ for(var i =0;i<operator.length;i++){
 				}
 			}
 		}
-		
+		//darkmode code 
+		{darkmode:true}
 	});
 }
 var number = document.getElementsByClassName("number");
